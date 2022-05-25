@@ -1,5 +1,5 @@
 # Laravel Model Fixer
-[![Latest Stable Version](https://poser.pugx.org/atiksoftware/laravel-model-fixer/v/stable)](https://packagist.org/packages/atiksoftware/laravel-model-fixer) [![Total Downloads](https://poser.pugx.org/atiksoftware/laravel-model-fixer/downloads)](https://packagist.org/packages/atiksoftware/laravel-model-fixer) [![Latest Unstable Version](https://poser.pugx.org/atiksoftware/laravel-model-fixer/v/unstable)](https://packagist.org/packages/atiksoftware/laravel-model-fixer) [![License](https://poser.pugx.org/atiksoftware/laravel-model-fixer/license)](https://packagist.org/packages/atiksoftware/laravel-model-fixer)
+[![Latest Stable Version](https://poser.pugx.org/atiksoftware/model-fill/v/stable)](https://packagist.org/packages/atiksoftware/model-fill) [![Total Downloads](https://poser.pugx.org/atiksoftware/model-fill/downloads)](https://packagist.org/packages/atiksoftware/model-fill) [![Latest Unstable Version](https://poser.pugx.org/atiksoftware/model-fill/v/unstable)](https://packagist.org/packages/atiksoftware/model-fill) [![License](https://poser.pugx.org/atiksoftware/model-fill/license)](https://packagist.org/packages/atiksoftware/model-fill)
 
 This is a tiny package to add a `php artisan model:fix` command to quickly create blade views.
 
@@ -7,7 +7,7 @@ This is a tiny package to add a `php artisan model:fix` command to quickly creat
 
 Require the package with composer using the following command:
 
-    composer require atiksoftware/laravel-model-fixer
+    composer require atiksoftware/model-fill
 
 ## Usage
 
