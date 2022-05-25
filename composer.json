@@ -1,0 +1,29 @@
+{
+    "name": "atiksoftware/model-fill",
+    "description": "Laravel auto model cast and migration filler",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Atiksoftware Corporation",
+            "email": "atiksoftware@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Atiksoftware\\ModelFill\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0|~6.0|~7.0|~8.0|~9.0", 
+        "illuminate/filesystem": "~5.0|~6.0|~7.0|~8.0|~9.0",
+        "illuminate/console": "~5.0|~6.0|~7.0|~8.0|~9.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Atiksoftware\\ModelFill\\ServiceProvider"
+            ]
+        }
+    }
+}
